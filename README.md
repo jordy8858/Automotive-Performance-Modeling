@@ -1,2 +1,1 @@
-# Performance-Modeling
-Analyzing internet sales trends and performance metrics within the automotive retail sector to drive data-informed business decisions.
+#Bridging front-line internet sales experience with advanced data science. This repository applies machine learning and predictive analytics to automotive retail, featuring tools designed to optimize inventory, score leads, and drive dealership ROI
