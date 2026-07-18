@@ -12,3 +12,10 @@ Database Management: SQL, SQLite
 Development Tools: VS Code, Google Colab, Git/GitHub
 
 Domain Expertise: Automotive Digital Retailing, Sales Funnel Analytics, CRM Management
+
+🤝 Let's Connect
+I am currently looking for roles where I can combine my background in automotive sales with my new technical skills in data science and SQL engineering.
+
+LinkedIn: https://www.linkedin.com/in/jordansmith98/
+
+Email: jordtysmith67@gmail.com
