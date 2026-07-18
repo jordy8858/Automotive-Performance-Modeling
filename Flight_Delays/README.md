@@ -1,4 +1,4 @@
-Project Title: Predictive Pipeline Analysis: American Airlines Sales & Capacity Optimization
+# Project Title: Predictive Pipeline Analysis: American Airlines Sales & Capacity Optimization
 ✈️ Project Overview
 This project applies data-driven modeling to the aviation industry, simulating the conversion funnel of airline ticket sales and load capacity. By analyzing passenger booking behaviors against seat inventory and seasonal demand, this analysis identifies key drivers in "net yield" performance, demonstrating how analytical modeling can optimize both customer acquisition and flight profitability.
 
